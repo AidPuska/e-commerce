@@ -48,12 +48,13 @@ const Signup = () => {
 
                 <p className='text-center border border-black rounded-full'>OR</p>
 
-                <p className='w-full bg-blue-600 rounded p-1 text-center text-white'>Login with Facebook</p>
-                <p className='w-full bg-black rounded p-1 text-center text-white'>Login with Github</p>
-
                 <form action="http://localhost:8080/api/auth/google" method='get'>
                     <button className='w-full bg-red-600 rounded p-1 text-center text-white cursor-pointer'>Login with Google</button>
                 </form>
+
+                <p className='w-full bg-gray-600 rounded p-1 text-center text-white'>Login with Facebook</p>
+                <p className='w-full bg-gray-600 rounded p-1 text-center text-white'>Login with Github</p>
+
 
 
             </form>
