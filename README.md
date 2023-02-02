@@ -1,5 +1,5 @@
 # e-commerce
-Run backend with: npm run start, and frontend with: npm run dev
+Run backend with: npm run start, and frontend with: npm run dev /n
 Made with MERN stack and TailwindCSS.
 # Main page
 ![Screenshot_1](https://user-images.githubusercontent.com/108176604/216184632-481bc902-7c81-482b-ad4d-f338ee9580a1.png)
